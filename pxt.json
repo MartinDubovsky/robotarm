@@ -1,5 +1,5 @@
 {
-    "name": "RobotArm",
+    "name": "auto",
     "description": "",
     "dependencies": {
         "core": "*",
